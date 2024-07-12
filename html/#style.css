@@ -1,0 +1,20 @@
+body{ background-color: antiquewhite;
+
+}
+.main{
+   text-align: center;
+
+}
+.sub{
+    color: aqua;
+    font: size 50px;
+    font-weight:bold;
+
+
+}
+#para{
+    font-style: bold;
+    font-size:20px;
+    color:aqua;
+
+}
